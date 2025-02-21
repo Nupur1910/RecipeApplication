@@ -1,4 +1,6 @@
-###Summary: Include screen shots or a video of your app highlighting its features
+###Summary:  https://github.com/user-attachments/assets/ef152e89-8706-4257-9424-3bbadfc0a5d4
+
+
 
 ###Focus Areas: I prioritized user experience, application design and its functionality. I tried to think on behalf of the user and what makes the application more appealing to the users, and how easily they can access and navigate the tasks. I believe this approach generates better ideas and how the application can be improved by thinking from someone's perspective.
 
